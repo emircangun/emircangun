@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircangun)](https://github.com/emircangun/github-readme-stats)
+[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircangun&show_icons=true&theme=swift))](https://github.com/emircangun/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircangun&layout=compact)](https://github.com/emircangun/github-readme-stats)
