@@ -1,3 +1,4 @@
+# <a href="https://github.com/aycagokdag">🤍</a>
 ### Hi, I'm Emir ☀️
 
 > There are lots of strawberries and nectarines inside 🍓🍑   
@@ -5,7 +6,7 @@
 >     
 > <a href="#"><img alt="give me a fruit" src="/assets/giveMeAFruit.png" height=40></a>  
 
-**I am a 3️⃣rd year computer engineering student at ITU.** 
+**I am a 3️⃣rd year computer engineering student at ITU.**  
   
     
        
