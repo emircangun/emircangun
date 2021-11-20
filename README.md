@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi, I'm Emir ☀️
 
-<!--
-**emircangun/emircangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> There are lots of strawberries and nectarines inside  
+> and you can give me more if you want...
+>   
+> 🍓🍑🍓🍑🍓🍑🍓  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircangun&show_icons=true&theme=swift)](https://github.com/emircangun/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircangun&layout=compact)](https://github.com/emircangun/github-readme-stats)
+**I am a 3️⃣rd year computer engineering student at ITU.** 
+  
+    
+       
+---       
+<span>       
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emircangun&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Emir's    github stats" />
+</span>
+<span> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircangun&layout=compact&theme=swift&hide_border=true" />
+</span> 
