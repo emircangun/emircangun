@@ -9,10 +9,12 @@
   
     
        
----       
+---
+|
 <span>       
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emircangun&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Emir's    github stats" />
 </span>
 <span> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircangun&layout=compact&theme=swift&hide_border=true" />
 </span> 
+|
