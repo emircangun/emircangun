@@ -2,11 +2,11 @@
 ### Hi, I'm Emir ☀️
 
 > There are lots of strawberries and nectarines inside 🍓🍑   
-> and you can give me more fruit if you want...
+> You can give me more fruit if you want...
 >     
 > <a href="#"><img alt="give me a fruit" src="/assets/giveMeAFruit.png" height=40></a>  
 
-**I am a 3️⃣rd year computer engineering student at ITU.**  
+**I am a third year computer engineering student at ITU.**  
   
     
        
